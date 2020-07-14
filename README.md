@@ -1,7 +1,7 @@
 # Garage-Management-System
 ## Desktop Application, as part of a software engineering course, using **Swing**, **MVC architecture**, **Design Patterns**, **JSON files**
 
-**NOTE:** password for Team: Admin
+**NOTE:** password for Team: Admin \
 
 **Screenshots:**
 [![login.jpg](https://i.postimg.cc/mkPrkhmT/login.jpg)](https://postimg.cc/wRdzbxKr)
