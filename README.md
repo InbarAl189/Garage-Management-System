@@ -2,8 +2,8 @@
 
 **Desktop Application, as part of a software engineering course, using Swing, MVC architecture, Design Patterns, JSON files.** <br>
 
-The system provides a simple user interface, which allows management and tracking of vehicles that are in the the garage.
-You can perform actions such as: adding a new vehicle to the garage, refueling the vehicleת and inflating the wheels.
+The system provides a simple user interface, which allows management and tracking of vehicles that are in the the garage.<br>
+You can perform actions such as: adding a new vehicle to the garage, refueling the vehicleת and inflating the wheels.<br>
 In addition, you can see a list of all the vehicles currently in the garage and what their status is.
 
 **NOTE:** password for Team: Admin <br/>
