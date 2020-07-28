@@ -1,6 +1,6 @@
 # Garage-Management-System
 
-**Desktop Application, as part of a software engineering course, using Swing, MVC architecture, Design Patterns, JSON files.** <br>
+**Java Desktop Application, developed as part of a software engineering course, using Swing, MVC architecture, Design Patterns, JSON files.** <br>
 
 The system provides a simple user interface, which allows management and tracking of vehicles that are in the the garage.<br>
 You can perform actions such as: adding a new vehicle to the garage, refueling the vehicleת and inflating the wheels.<br>
